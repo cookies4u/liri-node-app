@@ -1,0 +1,32 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "command line node app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookies4u/liri-node-app.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "command",
+    "line"
+  ],
+  "author": "jaun c reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookies4u/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/cookies4u/liri-node-app#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}

@@ -1,0 +1,26 @@
+
+////////my-tweets////////
+---  RT @CE_NatGas: Learn about The Path to Clean Air for @portoflongbeach and @portofLA  https://t.co/22yhvAYhod via @YouTube
+---  RT @K0YCHEV: Reactive Forms in Angular - An Introduction https://t.co/eAX0uPzNaZ @alligatorio #angularjs #javascript #programming https://t…
+---  RT @angular: Watch "Angular 2 and Progressive Web Apps" for blazing fast mobile web (and desktop!) apps:
+https://t.co/NyPiIk8Vaw
+---  “Basic Indexing in MongoDB” by Douglas Duncan https://t.co/VsFHoBjG6B
+---  RT @EIUPerspectives: California is the most populated state, but the amt of energy used per person is one of the smallest in the US. Why? h…
+---  RT @Nyach_KE: Four Clean Energy mega-projects that can help Africa become a renewable superpower. via @wef
+#CleanEnergyKE https://t.co/DAWq…
+---  RT @MITOCW: MIT's Campaign for a Better World- learn how MIT envisions to improve the health of the planet. https://t.co/hCbV9G7vRf #MITBet…
+---  RT @analyticbridge: The Mathematics of #MachineLearning #abdsc
+https://t.co/49B11mK8Go https://t.co/rpmPVwF4Ko
+---  RT @KirkDBorne: Top Prediction #Algorithms in One Picture: https://t.co/DHqZa7qmAI #abdsc #BigData #DataScience #MachineLearning #Predictiv…
+---  Rubyrails
+
+//////// movie-this ////////
+Title: Mr. Nobody
+Year: 2009
+imdbRating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 64%
+rotten url: https://www.rottentomatoes.com/search/?search=Mr. Nobody
